@@ -4,3 +4,4 @@
 - Python introdução a Numpy
 - Python Orientação a Objetos
 - Fatiamento de strings
+- Data e hora (Exemplo BR)
